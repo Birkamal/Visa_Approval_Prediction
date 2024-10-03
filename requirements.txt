@@ -1,0 +1,26 @@
+#packages required for this project
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo #mongodb
+from_root #to figure out root folder
+evidently==0.2.8 #for data div detection
+dill 
+PyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e . # reqd for setup.py
