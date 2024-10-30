@@ -12,3 +12,5 @@ try:
 except Exception as e:
     logging.info(e) # to get error message in logger, helps during production
     raise USvisaException(e, sys) from e # we trace the issue with the help of sys
+
+
