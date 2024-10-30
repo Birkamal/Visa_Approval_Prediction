@@ -6,7 +6,7 @@ import sys
 '''Demo for logger'''
 #logging.info("Welcome to our custom log")
 
-'''Demo for exception'''
+'''Demo for Exception'''
 try:
     a=1/"12"
 except Exception as e:
